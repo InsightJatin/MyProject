@@ -1,14 +1,19 @@
-# MyProject
+## MyProject
 "Repository For My Personal Projects, Assignments, And Coding Practice"
 
 
-# Project 1 :- "Car Price Prediction"
+## Project 1 :- "Car Price Prediction"
 
-# Overview
+# Overview:-
 A machine learning project to predict car selling prices based on features like brand, year, mileage, fuel type, and transmission.
 
-## 🛠️ Tech Stack
+# Tech Stack
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib, Seaborn 
+
+## Project 2 :- "Wine Quality Prediction"
+
+# Overview:-
+A machine learning project to predict wine quality 

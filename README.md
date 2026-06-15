@@ -44,4 +44,27 @@ This project explores the **Wine Quality Dataset (`winequalityN.csv`)** to predi
   - Gradient Boosting
 - Compare performance using metrics like **accuracy, precision, recall, and F1-score**.
 - Identify the most important predictors of wine quality.
+  .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+## Project 3 :- "NETFLIX CONTENT ANALYSIS"
+
+## Overview
+This project focuses on analyzing Netflix Movies and TV Shows data using SQL queries.  
+The analysis includes data cleaning, transformation, categorization, and business insights extraction from the dataset.
+
+# The project demonstrates practical SQL concepts such as:
+- Data Cleaning
+- Data Transformation
+- Aggregate Functions
+- Window Functions
+- Ranking
+- Grouping & Sorting
+- CASE Statements
+- Percentage Analysis
+
+
+
+
+
+
 

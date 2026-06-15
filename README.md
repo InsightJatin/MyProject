@@ -62,9 +62,51 @@ The analysis includes data cleaning, transformation, categorization, and busines
 - CASE Statements
 - Percentage Analysis
 
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+## Project 4 :- "US State-wise Customer & Product Demand Analysis"
+
+## Overview
+This project performs exploratory data analysis (EDA) on a retail superstore dataset to understand:
+
+- State-wise sales performance
+- Regional profit trends
+- Product category demand
+- Discount impact on profit
+- Customer segment behavior
+
+The analysis is done using Python data analysis and visualization libraries in Jupyter Notebook.
 
 
+## Project Objectives
+
+- Analyze sales distribution across U.S. states
+- Identify top-performing states and categories
+- Compare sales and profit across regions
+- Detect duplicate and missing values
+- Study the relationship between discount and profit
+- Visualize customer and product trends
 
 
+## Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Dataset
+
+The project uses the **SampleSuperstore.csv** dataset containing:
+- Sales
+- Profit
+- Discount
+- Customer Segment
+- Product Category
+- Region
+- State
+- City
 
 
